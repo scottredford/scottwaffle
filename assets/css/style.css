@@ -25177,7 +25177,7 @@ figure img {
 }
 .link-navy:hover,
 .link-navy:focus {
-  color: var(--bs-navy);
+  color: var(--bs-ash);
 }
 .link-ash {
   color: var(--bs-ash);
