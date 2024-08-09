@@ -1,7 +1,7 @@
 :root {
   --bs-primary: var(--bs-navy);
   --bs-link-color-rgb: var(--bs-navy-rgb);
-  --bs-link-hover-color-rgb: var(--bs-soft-navy-rgb);
+  --bs-link-hover-color-rgb: var(--bs-ash-rgb);
   --bs-primary-rgb: var(--bs-navy-rgb);
   --bs-soft-primary: var(--bs-soft-navy);
   --bs-pale-primary: var(--bs-pale-navy);
