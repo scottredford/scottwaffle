@@ -5334,7 +5334,7 @@ fieldset:disabled .btn {
   --bs-nav-link-font-size: 0.8rem;
   --bs-nav-link-font-weight: 700;
   --bs-nav-link-color: #343f52;
-  --bs-nav-link-hover-color: var(--bs-ash);
+  --bs-nav-link-hover-color: var(--bs-navy);
   --bs-nav-link-disabled-color: #959ca9;
   display: flex;
   flex-wrap: wrap;
