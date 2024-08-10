@@ -5462,7 +5462,7 @@ fieldset:disabled .btn {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0;
   --bs-navbar-color: #343f52;
-  --bs-navbar-hover-color: var(--bs-#9499a3);
+  --bs-navbar-hover-color: var(--bs-ash);
   --bs-navbar-disabled-color: rgba(52, 63, 82, 0.3);
   --bs-navbar-active-color: var(--bs-primary);
   --bs-navbar-brand-padding-y: 0;
