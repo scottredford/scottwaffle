@@ -32209,7 +32209,7 @@ button.hamburger span {
   content: "\e92d";
 }
 .accordion-wrapper .card-header button:hover {
-  color: var(--bs-primary);
+  color: var(--bs-ash);
 }
 .accordion-item .card-body {
   padding: 0 1.25rem 0.25rem 2.35rem;
@@ -32255,7 +32255,7 @@ button.hamburger span {
   content: "\e92d";
 }
 .collapse-link:hover {
-  color: var(--bs-primary);
+  color: var(--bs-ash);
 }
 .accordion-collapse>.card-footer {
   background: #273444;
